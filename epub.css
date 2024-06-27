@@ -30,4 +30,8 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     white-space: pre-wrap !important;
   }
 }
-
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 2em 0;
+}

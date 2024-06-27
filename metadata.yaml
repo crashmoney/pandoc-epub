@@ -3,19 +3,19 @@
 # https://pandoc.org/MANUAL.html#epub-metadata
 title:
   - type: main
-    text: The Phoenix
+    text: The Three Women of Chuck's Donuts
   # - type: subtitle
   #   text: <SUBTITLE>
 creator:
   - role: author
-    text: Ken Liu
+    text: Anthony Vesana So
   # - role: editor
   #   text: <NAME>
 # description: <DESCRIPTION OF YOUR BOOK.>
 # cover-image: <COVER-IMAGE-FILE>
-date: 2010-07 # "-MM-DD" is optional
+# date: 2010-07 # "-MM-DD" is optional
 lang: en
-rights: © Ken Liu 2010, All Rights Reserved Unless Explicitly Granted
+# rights: © Ken Liu 2010, All Rights Reserved Unless Explicitly Granted
 css: epub.css
 # belongs-to-collection: <COLLECTION-NAME>
 # group-position: <NUMBER-IN-COLLECTION>
